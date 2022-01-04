@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database", "Database", "{F9267DA7-1C36-416F-BADE-00919ECCAB9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShop.Database", "CoffeeShop.Database\CoffeeShop.Database.csproj", "{7840F99F-8687-441C-956F-5AFB9B8FAD1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShop.Database.DbUp", "CoffeeShop.Database.DbUp\CoffeeShop.Database.DbUp.csproj", "{45284E35-9236-4B1A-84E0-C318D86C9BAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShop.Database.Runner", "CoffeeShop.Database.Runner\CoffeeShop.Database.Runner.csproj", "{04520ABB-5D75-4F3D-85FC-186950E69501}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{EA79A3E1-52CA-4B59-B3DA-18F7FF0DD375}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoffeeShop.Web.Admin", "CoffeeShop.Web.Admin\CoffeeShop.Web.Admin.csproj", "{3C71F2EF-1C1A-46C5-B1F4-F1FCD21A0D7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7840F99F-8687-441C-956F-5AFB9B8FAD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7840F99F-8687-441C-956F-5AFB9B8FAD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7840F99F-8687-441C-956F-5AFB9B8FAD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7840F99F-8687-441C-956F-5AFB9B8FAD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45284E35-9236-4B1A-84E0-C318D86C9BAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45284E35-9236-4B1A-84E0-C318D86C9BAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45284E35-9236-4B1A-84E0-C318D86C9BAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45284E35-9236-4B1A-84E0-C318D86C9BAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04520ABB-5D75-4F3D-85FC-186950E69501}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04520ABB-5D75-4F3D-85FC-186950E69501}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04520ABB-5D75-4F3D-85FC-186950E69501}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04520ABB-5D75-4F3D-85FC-186950E69501}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C71F2EF-1C1A-46C5-B1F4-F1FCD21A0D7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C71F2EF-1C1A-46C5-B1F4-F1FCD21A0D7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C71F2EF-1C1A-46C5-B1F4-F1FCD21A0D7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C71F2EF-1C1A-46C5-B1F4-F1FCD21A0D7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7840F99F-8687-441C-956F-5AFB9B8FAD1E} = {F9267DA7-1C36-416F-BADE-00919ECCAB9A}
+		{45284E35-9236-4B1A-84E0-C318D86C9BAA} = {F9267DA7-1C36-416F-BADE-00919ECCAB9A}
+		{04520ABB-5D75-4F3D-85FC-186950E69501} = {F9267DA7-1C36-416F-BADE-00919ECCAB9A}
+		{3C71F2EF-1C1A-46C5-B1F4-F1FCD21A0D7F} = {EA79A3E1-52CA-4B59-B3DA-18F7FF0DD375}
+	EndGlobalSection
+EndGlobal

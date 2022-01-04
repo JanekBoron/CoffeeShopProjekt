@@ -1,0 +1,12 @@
+C:\Users\Janek\Nauka\CoffeeShop\CoffeeShop\CoffeeShop.Database\bin\Debug\net5.0\CoffeeShop.Database.deps.json
+C:\Users\Janek\Nauka\CoffeeShop\CoffeeShop\CoffeeShop.Database\bin\Debug\net5.0\CoffeeShop.Database.dll
+C:\Users\Janek\Nauka\CoffeeShop\CoffeeShop\CoffeeShop.Database\bin\Debug\net5.0\ref\CoffeeShop.Database.dll
+C:\Users\Janek\Nauka\CoffeeShop\CoffeeShop\CoffeeShop.Database\bin\Debug\net5.0\CoffeeShop.Database.pdb
+C:\Users\Janek\Nauka\CoffeeShop\CoffeeShop\CoffeeShop.Database\obj\Debug\net5.0\CoffeeShop.Database.csproj.AssemblyReference.cache
+C:\Users\Janek\Nauka\CoffeeShop\CoffeeShop\CoffeeShop.Database\obj\Debug\net5.0\CoffeeShop.Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janek\Nauka\CoffeeShop\CoffeeShop\CoffeeShop.Database\obj\Debug\net5.0\CoffeeShop.Database.AssemblyInfoInputs.cache
+C:\Users\Janek\Nauka\CoffeeShop\CoffeeShop\CoffeeShop.Database\obj\Debug\net5.0\CoffeeShop.Database.AssemblyInfo.cs
+C:\Users\Janek\Nauka\CoffeeShop\CoffeeShop\CoffeeShop.Database\obj\Debug\net5.0\CoffeeShop.Database.csproj.CoreCompileInputs.cache
+C:\Users\Janek\Nauka\CoffeeShop\CoffeeShop\CoffeeShop.Database\obj\Debug\net5.0\CoffeeShop.Database.dll
+C:\Users\Janek\Nauka\CoffeeShop\CoffeeShop\CoffeeShop.Database\obj\Debug\net5.0\ref\CoffeeShop.Database.dll
+C:\Users\Janek\Nauka\CoffeeShop\CoffeeShop\CoffeeShop.Database\obj\Debug\net5.0\CoffeeShop.Database.pdb

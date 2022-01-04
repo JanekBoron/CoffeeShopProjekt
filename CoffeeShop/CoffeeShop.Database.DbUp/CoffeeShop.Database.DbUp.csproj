@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="dbup-sqlserver" Version="4.5.0" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\CoffeeShop.Database\CoffeeShop.Database.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="EnsureJournalSchema.sql" />
+      <EmbeddedResource Include="EnsureJournalSchema.sql" />
+    </ItemGroup>
+
+</Project>
